@@ -123,3 +123,6 @@ calculate_final_price()
 # 👨‍💻 Author
 
 Created as an OOP Programming Project using Python.
+## 📺 Video Explanation
+You can watch the full explanation and demo of the system here:
+[Click here to watch the video](https://drive.google.com/file/d/14LBnb_cAE32ZTi10VImWfOWPt0HG5vlh/view?usp=sharing)
